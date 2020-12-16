@@ -2,8 +2,8 @@
     $dsn = "mysql:host=localhost; dbname=login-system-PDO";
     // $dsn (str) 包含 mysql:host=     ;   dbname= 
     //https://www.php.net/manual/en/ref.pdo-mysql.connection.php
-    $username = "cuboid";
-    $password = "1asErMw4J3mZSHwX";
+    $username = "";
+    $password = "";
     $options = [];// ?????
     
     try{
